@@ -14,7 +14,7 @@ tl.from("#main h1", {
     duration: 0.8,
     stagger: 0.3
 })
-
+ 
 tl.from("img", {
     x: 100,
     rotate: 45,
