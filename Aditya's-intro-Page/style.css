@@ -88,7 +88,7 @@ footer {
     text-transform: uppercase;
     font-weight: 300;
     font-size: 15px;
-    position: relative;
+    position: relative; 
 }
 
 .footer-left,
